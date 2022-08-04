@@ -15,6 +15,15 @@ Cosplay Club is a cosplay contest app where users will submit their cosplay imag
 - Make contest judging decentralised with a DAO.
 - An easy dapp for general public to get a feel of web3.
 
+## Project Structure
+
+- **Frontend I** - For Users (submissions, votes, top ...)
+- **Frontend II** - For DAO users (vote on a submission)
+- **Web Backend** (handle form submissions, uploading to ipfs)
+- **Contract I** - ERC721 for user submission (Image NFTs)
+- **Contract II** - For DAO, store votes
+- Other contracts for DAO (gov token, membership nft)
+
 ## Demo
 
 🚀 link: (Link to the Actual Repo will be Here)
